@@ -1,9 +1,9 @@
 :root {
   /* --dark: rgb(#27293f);
     --mid: rgb(#34364b); */
-  --dark: rgb(39, 41, 64);
-  --mid: rgb(52, 54, 75);
-  --light: #4c4f6a;
+  --dark: rgb(56, 60, 94);
+  --mid: rgb(93, 97, 133);
+  --light: #9fa3cd;
   --white: white;
   --border: #a1a3ff;
   --bs-body-line-height: 1.1;
