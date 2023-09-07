@@ -7,6 +7,7 @@ import Contact from './pages/contact';
 import Header from './Header';
 import Footer from './Footer';
 
+
 export default function MainContainer() {
   const [currentPage, setCurrentPage] = useState('About');
 
