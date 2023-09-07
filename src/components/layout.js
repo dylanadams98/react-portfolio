@@ -1,7 +1,7 @@
-import Container from "react-bootstrap/Container";
+import { Container } from 'react-bootstrap';
 
-import Header from "../components/Header";
-import Footer from "../components/Footer";
+import Header from "./Header";
+import Footer from "./Footer";
 
 function Layout({pages, onSetPage, children}) {
     return (
